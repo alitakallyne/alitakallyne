@@ -13,4 +13,7 @@
 
 ##### About 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alitakallyne&show_icons=true&theme=dracula)
+ [![Linkedin Badge](https://img.shields.io/badge/-Alita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alita-kallyne-2511b8197/)](https://www.linkedin.com/in/alita-kallyne-2511b8197/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+
+
