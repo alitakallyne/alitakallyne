@@ -10,14 +10,14 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajsankdecha&label=Profile%20views&color=0e75b6&style=flat" alt="mirajsankdecha" /> &nbsp;&nbsp;     
-   <a href="https://github.com/mirajsankdecha?tab=followers"><img src="https://img.shields.io/github/followers/mirajsankdecha?label=Followers&style=social" alt="GitHub Followers"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alitakallyne&label=Profile%20views&color=0e75b6&style=flat" alt="alitakallyne" /> &nbsp;&nbsp;     
+   <a href="https://github.com/alitakallyne?tab=followers"><img src="https://img.shields.io/github/followers/alitakallyne?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
   
 <br>
-<p><img align="right" src="https://github.com/mirajsankdecha/mirajsankdecha/blob/main/images/animation_500_kxa883sd.gif" alt="AshkanPoyber" /> </p>
+<p><img align="right" src="https://github.com/alitakallyne/alitakallyne/blob/main/images/dev.gif" alt="alitakallyne" /> </p>
 
-<p><img align="right" src="https://github.com/mirajsankdecha/mirajsankdecha/blob/main/animation_500_kxa883sd.gif" alt="mirajsankdecha" /> </p>
+<p><img align="right" src="https://github.com/alitakallyne/alitakallyne/blob/main/dev.gif" alt="alitakallyne" /> </p>
 
 - 🌱 I'm Alita Kallyne, a systems analyst currently working on hospital systems projects.
 
