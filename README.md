@@ -1,53 +1,52 @@
-<h1 align="center">Hi 👋, I'm Alita Kallyne</h1>
+<h1 align="center">Olá 👋, eu sou Alita Kallyne</h1>
 
-<h3 align="center"> Backend Developer | Java | APIs | Hospital Systems</h3>
-
----
-
-### 👩‍💻 About Me
-
-* 🏥 Backend Developer focused on **hospital systems and integrations**
-* ⚙️ Experience with **Java, Spring Boot and APIs**
-* 🔄 Working with **legacy systems modernization (FoxPro → modern stack)**
-* 🧠 Building systems with **real business rules and workflows**
-* 🚀 Currently developing a **Hospital Scheduling & Integration System**
+<h3 align="center">Backend Developer | Java | APIs | Sistemas Hospitalares</h3>
 
 ---
 
-### 🛠️ Tech Stack
+### 👩‍💻 Sobre mim
+
+* 🏥 Desenvolvedora Backend com foco em **sistemas hospitalares e integrações**
+* ⚙️ Experiência com **Java, Spring Boot e APIs REST**
+* 🔄 Atuação na **modernização de sistemas legados (FoxPro → stack moderna)**
+* 🧠 Desenvolvimento de soluções com **regras de negócio reais e fluxos complexos**
+* 🚀 Atualmente desenvolvendo um **Sistema de Agendamento e Integração Hospitalar**
+
+---
+
+### 🛠️ Tecnologias
 
 **Backend**
 
-* Java • Spring Boot • Spring Security • REST APIs • JWT Authentication
+* Java • Spring Boot • Spring Security • APIs REST • Autenticação com JWT
 
-**Data & Database**
+**Dados & Banco de Dados**
 
-* MySQL • SQL Server • MongoDB • SQL Optimization
+* MySQL • SQL Server • MongoDB • Otimização de consultas SQL
 
-**Architecture & Integration**
+**Arquitetura & Integração**
 
-* API Integration • Event-Driven Architecture (Kafka) • System Integration
+* Integração de APIs • Arquitetura orientada a eventos (Kafka) • Integração de sistemas
 
 **Frontend**
 
 * React • Next.js • HTML • CSS • JavaScript
 
-**Tools & DevOps**
+**Ferramentas & DevOps**
 
-* Git • GitHub • Maven • Postman • Swagger • Docker (basic)
+* Git • GitHub • Maven • Postman • Swagger • Docker
 
-**Legacy Systems**
+**Sistemas Legados**
 
-* Visual FoxPro (maintenance & modernization)
-
+* Visual FoxPro (manutenção e modernização)
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projetos em Destaque
 
-#### 📨 Scheduling API
+#### 🏥 API de Agendamento Hospitalar
 
-API REST para gerenciamento de agendamentos com regras de negócio reais.
+API REST para gerenciamento de agendamentos com regras de negócio reais, simulando cenários de sistemas hospitalares e clínicos.
 
 * Validação de conflitos de horário
 * Controle de disponibilidade por profissional
@@ -58,40 +57,40 @@ API REST para gerenciamento de agendamentos com regras de negócio reais.
 
 ---
 
-#### 🔐 User Management API
+#### 🔐 API de Gestão de Usuários
 
-Sistema completo de autenticação com JWT e controle de acesso por roles.
+Sistema completo de autenticação com JWT e controle de acesso por perfis (roles).
 
 * Login com JWT
 * Spring Security
 * Proteção de endpoints
-* Swagger (OpenAPI)
+* Documentação com Swagger (OpenAPI)
 
 🔗 https://github.com/alitakallyne/user-management-api
 
 ---
 
-#### 📨 Event-Driven Payment System (Kafka)
+#### 📨 Sistema de Mensageria com Kafka
 
-Sistema de mensageria com arquitetura orientada a eventos usando Kafka.
+Sistema distribuído com arquitetura orientada a eventos utilizando Apache Kafka para processamento assíncrono.
 
 * Producer e Consumer com Spring Boot
 * Apache Kafka + Avro + Schema Registry
 * Comunicação assíncrona entre serviços
 * Orquestração com Docker
 
-🔗 (https://github.com/alitakallyne/payment-processing-kafka)
+🔗 https://github.com/alitakallyne/payment-processing-kafka
 
 ---
 
-### 📫 Contact
+### 📫 Contato
 
 * ✉️ Email: [alytakallyne@gmail.com](mailto:alytakallyne@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/alitakallyne/
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alitakallyne&show_icons=true&theme=dark"/>
@@ -103,4 +102,4 @@ Sistema de mensageria com arquitetura orientada a eventos usando Kafka.
 
 ---
 
-⭐️ Always learning, building and improving.
+⭐️ Sempre aprendendo, evoluindo e construindo soluções com impacto real.
