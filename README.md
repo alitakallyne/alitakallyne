@@ -44,9 +44,9 @@
 
 ### 📌 Projetos em Destaque
 
-#### 🏥 API de Agendamento Hospitalar
+#### 🏥 API de Agendamento 
 
-API REST para gerenciamento de agendamentos com regras de negócio reais, simulando cenários de sistemas hospitalares e clínicos.
+API REST para gerenciamento de agendamentos com regras de negócio reais, simulando cenários de sistemas salão
 
 * Validação de conflitos de horário
 * Controle de disponibilidade por profissional
