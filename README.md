@@ -6,11 +6,11 @@
 
 ### 👩‍💻 Sobre mim
 
-* 🏥 Desenvolvedora Backend com foco em **sistemas hospitalares e integrações**
+* 🏥 Desenvolvedora Backend 
 * ⚙️ Experiência com **Java, Spring Boot e APIs REST**
 * 🔄 Atuação na **modernização de sistemas legados (FoxPro → stack moderna)**
 * 🧠 Desenvolvimento de soluções com **regras de negócio reais e fluxos complexos**
-* 🚀 Atualmente desenvolvendo um **Sistema de Agendamento e Integração Hospitalar**
+* 🚀 Atualmente desenvolvendo um **Sistema de Agendamento**
 
 ---
 
