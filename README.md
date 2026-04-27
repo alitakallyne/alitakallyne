@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Alita Kallyne</h1>
 
-<h3 align="center">Backend Developer | Java | APIs | Sistemas Hospitalares</h3>
+<h3 align="center">Backend Java Developer | Spring Boot | Kafka | React</h3>
 
 ---
 
