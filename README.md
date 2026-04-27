@@ -22,7 +22,7 @@
 
 **Dados & Banco de Dados**
 
-* MySQL • SQL Server • MongoDB • Otimização de consultas SQL
+* MySQL • SQL Server • Otimização de consultas SQL
 
 **Arquitetura & Integração**
 
